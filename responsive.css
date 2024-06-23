@@ -1,0 +1,19 @@
+@media (max-width:425px) {
+    .card {
+        display: flex;
+        width: 20em;
+    }
+
+    .imagem img {
+        width: 17.5em;
+    }
+
+    .titulo {
+        font-size: 1em;
+    }
+
+    .texto {
+        font-size: 0.8em;
+        color: hsl(0, 0%, 50%);
+    }
+}
